@@ -1,7 +1,7 @@
 # Global-Cybersecurity-Index-Analysis (CIA)
 
 <p align="center">
-<img src="https://github.com/kelebogile-nethengwe/Global-Cybersecurity-Index-Analysis/blob/b973159086123b82bf34133a5d1a7aefd899272f/media/global%20cybersecurity.png" width = "340" alt="image alt" />
+<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihVg6RorZb5U/v0/-1x-1.webp" width = "340" alt="Global Cybersecurity Index Analysis" />
   </p>
 
 
