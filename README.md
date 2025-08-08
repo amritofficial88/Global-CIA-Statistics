@@ -1,7 +1,7 @@
 # Global-Cybersecurity-Index-Analysis (CIA)
 
 <p align="center">
-<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihVg6RorZb5U/v0/-1x-1.webp" width = "650" alt="Global Cybersecurity Index Analysis" />
+<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihVg6RorZb5U/v0/-1x-1.webp" width = "850" alt="Global Cybersecurity Index Analysis" />
   </p>
 
 
